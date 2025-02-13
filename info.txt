@@ -1,0 +1,11 @@
+1-Edmund callis berkley Giant brains.
+2-Alang Turing Computing Machinery and Intelligence
+3-Frank Rosenbelt perceptron
+4-imagenet, alexnet,AlphaFold,GAN
+5-k-fold Cross validation
+6-R**2
+7-Stratified K-Fold Cross-Validation
+8-GridSearchCV
+9-Hyperparameter tuning
+10-Perceptron
+11-Richard Stallman
